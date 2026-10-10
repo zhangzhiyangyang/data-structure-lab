@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\cdlinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|solutionrelative:cdlinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\clinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|solutionrelative:clinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\dlinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|solutionrelative:dlinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\linklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|solutionrelative:linklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\sqlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|solutionrelative:sqlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\linear list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|solutionrelative:linear list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sqlist.cpp",
+              "DocumentMoniker": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\sqlist.cpp",
+              "RelativeDocumentMoniker": "sqlist.cpp",
+              "ToolTip": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\sqlist.cpp",
+              "RelativeToolTip": "sqlist.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAgwF8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-10T10:03:29.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cdlinklist.cpp",
+              "DocumentMoniker": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\cdlinklist.cpp",
+              "RelativeDocumentMoniker": "cdlinklist.cpp",
+              "ToolTip": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\cdlinklist.cpp*",
+              "RelativeToolTip": "cdlinklist.cpp*",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAgwJIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-10T10:01:47.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clinklist.cpp",
+              "DocumentMoniker": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\clinklist.cpp",
+              "RelativeDocumentMoniker": "clinklist.cpp",
+              "ToolTip": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\clinklist.cpp*",
+              "RelativeToolTip": "clinklist.cpp*",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAgwJAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-10T10:01:30.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dlinklist.cpp",
+              "DocumentMoniker": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\dlinklist.cpp",
+              "RelativeDocumentMoniker": "dlinklist.cpp",
+              "ToolTip": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\dlinklist.cpp",
+              "RelativeToolTip": "dlinklist.cpp",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAgwIwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-10T10:00:51.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "linklist.cpp",
+              "DocumentMoniker": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\linklist.cpp",
+              "RelativeDocumentMoniker": "linklist.cpp",
+              "ToolTip": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\linklist.cpp",
+              "RelativeToolTip": "linklist.cpp",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAgwIcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-10T10:00:32.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "linear list.cpp",
+              "DocumentMoniker": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\linear list.cpp",
+              "RelativeDocumentMoniker": "linear list.cpp",
+              "ToolTip": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\linear list.cpp",
+              "RelativeToolTip": "linear list.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-10T09:58:44.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
