@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\cdlinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|solutionrelative:cdlinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\cdlinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cdlinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\clinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|solutionrelative:clinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\sqlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\dlinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|solutionrelative:dlinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\clinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\linklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|solutionrelative:linklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\dlinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dlinklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\sqlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|solutionrelative:sqlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\linklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:linklist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\linear list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29FA4631-A6C4-4E40-A1C2-257764D1DD03}|linear list.vcxproj|solutionrelative:linear list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\linear list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:linear list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "sqlist.cpp",
               "DocumentMoniker": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\sqlist.cpp",
               "RelativeDocumentMoniker": "sqlist.cpp",
@@ -69,14 +69,14 @@
               "RelativeDocumentMoniker": "cdlinklist.cpp",
               "ToolTip": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\cdlinklist.cpp",
               "RelativeToolTip": "cdlinklist.cpp",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAgwJEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwJEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-10T10:01:47.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "clinklist.cpp",
               "DocumentMoniker": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\clinklist.cpp",
               "RelativeDocumentMoniker": "clinklist.cpp",
@@ -89,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "dlinklist.cpp",
               "DocumentMoniker": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\dlinklist.cpp",
               "RelativeDocumentMoniker": "dlinklist.cpp",
@@ -97,12 +97,11 @@
               "RelativeToolTip": "dlinklist.cpp",
               "ViewState": "AgIAAIYAAAAAAAAAAAAgwIwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-10T10:00:51.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-10T10:00:51.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "linklist.cpp",
               "DocumentMoniker": "C:\\Users\\10663\\Desktop\\data-structure-lab\\linear list\\linklist.cpp",
               "RelativeDocumentMoniker": "linklist.cpp",
@@ -110,8 +109,7 @@
               "RelativeToolTip": "linklist.cpp",
               "ViewState": "AgIAAIEAAAAAAAAAAAAgwIcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-10T10:00:32.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-10T10:00:32.409Z"
             },
             {
               "$type": "Document",
@@ -123,8 +121,7 @@
               "RelativeToolTip": "linear list.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-10T09:58:44.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-10T09:58:44.586Z"
             }
           ]
         }
