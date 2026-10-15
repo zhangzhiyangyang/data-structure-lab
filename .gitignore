@@ -1,0 +1,8 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.vsidx
+
+# WorkBuddy 工作区数据（不要提交到仓库）
+.workbuddy/
