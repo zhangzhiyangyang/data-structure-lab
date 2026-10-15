@@ -1,8 +1,24 @@
-# Visual Studio
+# Visual Studio / MSBuild 构建产物与 IDE 缓存
 .vs/
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.exe
+*.idb
+*.ilk
+*.ipch
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
 *.suo
+*.wsuo
 *.user
 *.vsidx
+*.db
+*.sqlite
 
 # WorkBuddy 工作区数据（不要提交到仓库）
 .workbuddy/

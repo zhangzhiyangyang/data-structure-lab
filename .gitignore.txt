@@ -1,5 +1,0 @@
-# Visual Studio
-.vs/
-*.suo
-*.user
-*.vsidx
