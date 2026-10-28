@@ -26,6 +26,7 @@ data-structure-lab
 - [x] 查找（顺序、折半、散列）
 - [x] 排序（插入、交换、选择、归并、基数）
 - [x] 二叉树的线索化
+- [x] 并查集（QuickFind / QuickUnion）
 
 ## 编译方式
 
