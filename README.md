@@ -27,6 +27,7 @@ data-structure-lab
 - [x] 排序（插入、交换、选择、归并、基数）
 - [x] 二叉树的线索化
 - [x] 并查集（QuickFind / QuickUnion）
+- [x] Huffman 树与 Huffman 编码、树与森林转换
 
 ## 编译方式
 

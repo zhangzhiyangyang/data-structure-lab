@@ -12,6 +12,7 @@
 | 2026-10-24 | 排序 | [排序](2026-10-24-排序.md) | [sorting.cpp](../code/2026-10-24-sorting.cpp) |
 | 2026-10-25 | 二叉树的线索化 | [二叉树的线索化](2026-10-25-二叉树的线索化.md) | [threaded_binary_tree.cpp](../code/2026-10-25-threaded_binary_tree.cpp) |
 | 2026-10-28 | 并查集（QuickFind/QuickUnion） | [并查集](2026-10-28-并查集.md) | [union_find.cpp](../code/2026-10-28-union_find.cpp) |
+| 2026-10-29 | Huffman 树与树森林转换 | [Huffman 树与树森林转换](2026-10-29-Huffman树与树森林转换.md) | [huffman_forest.cpp](../code/2026-10-29-huffman_forest.cpp) |
 
 ## 学习路线（对齐课程目录，每天一篇按序补齐）
 
@@ -31,7 +32,7 @@
 - [x] 排序（插入排序、交换排序、堆排序、归并排序和计数排序）<!-- 课程 29~32 -->
 - [x] 二叉树的线索化 <!-- 课程 11 -->
 - [x] 并查集（QuickFind/QuickUnion）<!-- 课程 17~18 -->
-- [ ] Huffman 树与 Huffman 编码、树与森林转换 <!-- 课程 18~19 -->
+- [x] Huffman 树与 Huffman 编码、树与森林转换 <!-- 课程 18~19 -->
 - [ ] 图的十字链表和邻接多重表 <!-- 课程 23 -->
 - [ ] 拓扑排序 <!-- 课程 27 -->
 - [ ] 关键路径（AOE 网）<!-- 课程 28 -->
