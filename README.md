@@ -28,6 +28,7 @@ data-structure-lab
 - [x] 二叉树的线索化
 - [x] 并查集（QuickFind / QuickUnion）
 - [x] Huffman 树与 Huffman 编码、树与森林转换
+- [x] 图的十字链表和邻接多重表
 
 ## 编译方式
 
