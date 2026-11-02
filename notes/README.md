@@ -14,6 +14,7 @@
 | 2026-10-28 | 并查集（QuickFind/QuickUnion） | [并查集](2026-10-28-并查集.md) | [union_find.cpp](../code/2026-10-28-union_find.cpp) |
 | 2026-10-29 | Huffman 树与树森林转换 | [Huffman 树与树森林转换](2026-10-29-Huffman树与树森林转换.md) | [huffman_forest.cpp](../code/2026-10-29-huffman_forest.cpp) |
 | 2026-11-01 | 图的十字链表和邻接多重表 | [图的十字链表和邻接多重表](2026-11-01-图的十字链表和邻接多重表.md) | [orthogonal_multilist.cpp](../code/2026-11-01-orthogonal_multilist.cpp) |
+| 2026-11-03 | 拓扑排序 | [拓扑排序](2026-11-03-拓扑排序.md) | [topological_sort.cpp](../code/2026-11-03-topological_sort.cpp) |
 
 ## 学习路线（对齐课程目录，每天一篇按序补齐）
 
@@ -35,7 +36,7 @@
 - [x] 并查集（QuickFind/QuickUnion）<!-- 课程 17~18 -->
 - [x] Huffman 树与 Huffman 编码、树与森林转换 <!-- 课程 18~19 -->
 - [x] 图的十字链表和邻接多重表 <!-- 课程 23 -->
-- [ ] 拓扑排序 <!-- 课程 27 -->
+- [x] 拓扑排序 <!-- 课程 27 -->
 - [ ] 关键路径（AOE 网）<!-- 课程 28 -->
 - [ ] 基数排序与桶排序 <!-- 补充 -->
 - [ ] 红黑树（概述、插入、删除）<!-- 课程 34~36 -->
