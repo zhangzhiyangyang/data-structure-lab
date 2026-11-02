@@ -29,6 +29,7 @@ data-structure-lab
 - [x] 并查集（QuickFind / QuickUnion）
 - [x] Huffman 树与 Huffman 编码、树与森林转换
 - [x] 图的十字链表和邻接多重表
+- [x] 拓扑排序
 
 ## 编译方式
 
